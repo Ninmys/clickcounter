@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: counter-app
-          image: nithinmys/click_counter_docker:secondtrigger
+          image: nithinmys/click_counter_docker:thirdtrigger
           ports:
             - containerPort: 8081
 ---
